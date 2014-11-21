@@ -1,0 +1,20 @@
+{
+    "name": "jhtml",
+    "version": "0.0.1",
+    "description": "Node.js template engine",
+    "keywords": [
+        "template","views"
+    ],
+    "author": "Guillaume Masmejean <guillaume.masmejean@gmail.com>",
+    "main": "./lib/engine.js",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gmasmejean/jhtml.git"
+    },
+    "bugs":{
+        "url":"https://github.com/gmasmejean/jhtml/issues"
+    }
+}
